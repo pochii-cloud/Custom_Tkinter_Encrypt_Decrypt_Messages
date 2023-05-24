@@ -26,8 +26,10 @@ git clone https://github.com/your-username/message-encryption-app.git
 pip install cryptography
 ```
 3.Install tkinter and Customtkinter
-``` pip install tkinter customtkinter==0.3
+```bash
+pip install tkinter customtkinter==0.3
 ```
 4.Run Script
-```python main.py
+```bash
+python main.py
 ```
